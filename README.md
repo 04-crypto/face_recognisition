@@ -1,2 +1,2 @@
-# face_recognisition
+# facial_expression_recognisition
 The use of machines to perform different tasks is constantly increasing in society. Providing machines with perception can lead them to perform a great variety of tasks; even very complex ones such as elderly care. The interaction between human beings and computers will be more natural if computers are able to perceive and respond to human non-verbal communication such as facial expressions.  This facial expression recognition system can detect human smile and differentiates whether a person is happy or sad . Training our machine to classify between different kind of expressions through one of a deep learning's algorithm i.e CNN(Convolutional Neural Network).
